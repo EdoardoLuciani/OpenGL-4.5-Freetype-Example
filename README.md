@@ -7,4 +7,6 @@ glew: http://glew.sourceforge.net/
 
 Make sure to include the header and the library in the your compiler option, and to put the .dll in the folder of your project.
 
+![alt text][[https://github.com/EdoardoLuciani/OpenGL-4.5-Freetype-Example/blob/master/final_result.png|alt=octocat]]
+
 
